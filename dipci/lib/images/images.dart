@@ -9,7 +9,7 @@ class Images {
   final gameTable = 'assets/img/game_table.sgv';
   final help = 'assets/img/ help.sgv';
   final oneEye = 'assets/img/one_eye.sgv';
-  final paymentMethods = 'assets/img/payment_methods.sgv';
+  final paymentethods = 'assets/img/payment_methods.sgv';
   final pig = 'assets/img/pig.sgv';
   final tips = 'assets/img/tips.sgv';
   final wallet = 'assets/img/wallet.sgv';
